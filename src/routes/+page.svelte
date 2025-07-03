@@ -27,3 +27,7 @@
 <button on:click={() => goto('/equation')}>
   Aller à l'équation du 2nd degré
 </button>
+
+<button on:click={() => goto('/mindmap')}>
+  Aller vers la MindMap
+</button>
